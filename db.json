@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "Prueba Servidor Exitosa" },
+    { "id": 2, "title": "Prueba 2" },
+    { "id": 3, "title": "Prueba 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
